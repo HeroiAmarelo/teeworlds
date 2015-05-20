@@ -62,7 +62,7 @@ Are you sure that you want to remove the player from your friends list?
 == Queres mesmo apaga-lo da tua lista de amigos?
 
 As this is the first time you launch the game, please enter your nick name below. It's recommended that you check the settings to adjust them to your liking before joining a server.
-== Olá! Pelos vistos é a primeira vez que inicias o jogo, por isso escolhe um Nick Name para ti!
+== Olá! Pelos vistos é a primeira vez que inicias o jogo, por isso escolhe um Nick Name para ti! É recomendado que verifiques as configurações para as ajustares para ti antes de jogares.
 
 Automatically record demos
 == Gravar demos Automaticamente
@@ -293,7 +293,7 @@ Lht.
 == Luz
 
 Loading
-== Aguarda por favor
+== A carregar
 
 MOTD
 == MOTD
@@ -676,25 +676,25 @@ no limit
 ##### needs translation #####
 
 Borderless window
-== 
+== Janela sem bordas
 
 Game paused
-== 
+== Jogo em pausa
 
 Handle rendering async from updates
-== 
+== Lidar com renderização assíncrona de atualizações
 
 Respawn
-== 
+== Renascer
 
 Show only chat messages from friends
-== 
+== Mostrar apenas mensagens de amigos
 
 Threaded rendering
-== 
+== Renderização em paralelo
 
 Threaded sound loading
-== 
+== Carregamento de som em paralelo
 
 ##### old translations #####
 
